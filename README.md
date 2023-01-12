@@ -13,3 +13,6 @@ Rules of the game are very simple
 ![image](https://user-images.githubusercontent.com/92216225/212173274-6f374a81-162f-46db-9b82-ce33b58545c0.png)
 ![image](https://user-images.githubusercontent.com/92216225/212173396-a3dec930-ab76-4ef7-8fd4-d0df48be0913.png)
 ![image](https://user-images.githubusercontent.com/92216225/212173557-56fd44dd-87b6-4b2a-986b-c199bda0739d.png)
+
+I have made this project on replit, so you can check this also on Replit. Below find the link of the project
+https://replit.com/@charmee123/Rock-paper-scissors?v=1
